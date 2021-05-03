@@ -104,6 +104,7 @@ h2,
 
 .hero {
   margin-bottom: 40px;
+  margin-top: 40px;
 }
 
 .hero h2 {
@@ -458,6 +459,7 @@ h2,
 
   .hero-img img {
     height: 100%;
+    object-fit: cover;
   }
 
   .home-feature-item {
